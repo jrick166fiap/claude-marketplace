@@ -1,0 +1,14 @@
+{
+  "name": "jaime-plugins",
+  "owner": {
+    "name": "Jaime"
+  },
+  "description": "Marketplace de plugins Claude Code",
+  "plugins": [
+    {
+      "name": "meu-mcp",
+      "source": "./plugins/meu-mcp",
+      "description": "Integra o Claude Code ao meu servidor MCP"
+    }
+  ]
+}
