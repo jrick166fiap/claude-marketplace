@@ -1,9 +1,9 @@
 {
   "name": "jaime-plugins",
+  "description": "Marketplace de plugins Claude Code Test",
   "owner": {
     "name": "Jaime"
   },
-  "description": "Marketplace de plugins Claude Code Test",
   "plugins": [
     {
       "id": "trino",

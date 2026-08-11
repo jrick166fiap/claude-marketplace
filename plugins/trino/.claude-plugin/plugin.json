@@ -2,7 +2,7 @@
   "name": "trino",
   "displayName": "BI trino",
   "version": "1.0.0",
-  "repository": "https://github.com/jrick166fiap/claude-marketplace/plugins",
+  "repository": "https://github.com/jrick166fiap/claude-marketplace",
   "description": "Trino MCP",
   "author": {
     "name": "Jaime Silva"
