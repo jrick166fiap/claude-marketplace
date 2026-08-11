@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "meu-mcp": {
-      "type": "http",
-      "url": "http://10.188.5.161:80/mcp/"
-    }
-  }
-}
