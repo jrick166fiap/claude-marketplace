@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "id": "trino",
-      "name": "trino",
-      "source": "./plugins/trino"
+      "id": "trino-mcp",
+      "name": "trino-mcp",
+      "source": "./lwsa/trino"
     }
   ]
 }

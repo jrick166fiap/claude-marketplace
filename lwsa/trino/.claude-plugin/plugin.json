@@ -1,14 +1,13 @@
 {
   "name": "trino",
-  "displayName": "BI trino",
+  "description": "Trino MCP Explorer",
   "version": "1.0.0",
   "repository": "https://github.com/jrick166fiap/claude-marketplace",
-  "description": "Trino MCP",
   "author": {
     "name": "Jaime Silva"
   },
   "mcpServers": {
-    "trino": {
+    "trino-explorer": {
       "type": "http",
       "url": "http://10.188.5.161:80/mcp"
     }
