@@ -3,12 +3,12 @@
   "owner": {
     "name": "Jaime"
   },
-  "description": "Marketplace de plugins Claude Code",
+  "description": "Marketplace de plugins Claude Code Test",
   "plugins": [
     {
-      "name": "meu-mcp",
-      "source": "./plugins/meu-mcp",
-      "description": "Integra o Claude Code ao meu servidor MCP"
+      "id": "trino",
+      "name": "trino",
+      "source": "./plugins/trino"
     }
   ]
 }
