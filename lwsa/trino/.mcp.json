@@ -2,7 +2,7 @@
   "mcpServers": {
     "trino-explorer": {
       "type": "http",
-      "url": "http://10.188.5.161:80/mcp"
+      "url": "https://jaime.lwsa.tech/mcp"
     }
   }
 }
